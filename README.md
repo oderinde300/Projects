@@ -7,3 +7,4 @@ This contains the code and dataset used for my publication on the topic ["Estima
 # [Analysis on the Prevalence of Asthma and Allergic Rhinitis](https://github.com/oderinde300/Asthma-prevalence).
 This contains the code and dataset used for my publication on the topic ["Statistical Analysis of The Prevalence of Asthma and Allergic Rhinitis in Nigeria"](https://abjournals.org/ajste/papers/volume-4/issue-4/statistical-analysis-on-the-prevalence-and-predictors-of-asthma-and-allergic-rhinitis-in-nigeria/).
 # [2017 Global Index Indicator Table Using Tidyverse and Quarto in R](https://github.com/oderinde300/Quarto-Projects/blob/main/Tidyverse%20Project.pdf)
+Recreated the 2017 Global Index Indicator Table Using Tidyverse and Quarto markdown in R
